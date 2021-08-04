@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Start_Menu.unity
+    guid: 40a316a1a51b34d4c8431b5f0db6e85c
+  - enabled: 1
+    path: Assets/Scenes/Symmetry_Game_Rules.unity
+    guid: fe55db7f7c33e5d4c8cbe1258e2f8619
+  - enabled: 1
+    path: Assets/Scenes/Symmetry_Game.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/AllObjectsPlacedCorrectly.unity
+    guid: 0eb3fda0208f0ac4f94a5549326a8811
+  - enabled: 1
+    path: Assets/Scenes/HoardingGameRules.unity
+    guid: 45eec391054e9794b8518145a12ceb77
+  - enabled: 1
+    path: Assets/Scenes/Hoarding_Game.unity
+    guid: 416950152f02f3347869d089e255ade8
+  - enabled: 1
+    path: Assets/Scenes/HoardingGameOver.unity
+    guid: b9a20d347e9d636468c828f890e455dc
+  - enabled: 1
+    path: Assets/Scenes/Lexicon.unity
+    guid: 470cd444a1529dc4aba54823a2252863
+  - enabled: 1
+    path: Assets/Scenes/OCD_Lexicon.unity
+    guid: 1ab3e2162501e714a94bc3872083b12f
+  - enabled: 1
+    path: Assets/Scenes/OCD_Lexicon_Forward.unity
+    guid: 3861c27e3a0f32448af81a1319be1641
+  - enabled: 1
+    path: Assets/Scenes/Subtype_Lexicon.unity
+    guid: d4dddec8adc22d74d8a522c6365833c4
+  - enabled: 1
+    path: Assets/Scenes/Contamination.unity
+    guid: 1d00674be7163804ca6b391c86c4fb13
+  - enabled: 1
+    path: Assets/Scenes/Checking.unity
+    guid: d089448af6b9df74fa21925f4b003610
+  - enabled: 1
+    path: Assets/Scenes/Ordering.unity
+    guid: 6ba2e4fd8f585404c9aa8aacd4913a39
+  - enabled: 1
+    path: Assets/Scenes/NoCompulsions.unity
+    guid: 16a1d113b10924942b5cb30dfe18d7e3
+  - enabled: 1
+    path: Assets/Scenes/Hoarding.unity
+    guid: fa0a6a459cce7e4479f92cf58d2adf62
+  - enabled: 1
+    path: Assets/Scenes/Treatment_Lexicon.unity
+    guid: 8df1c0258c3a7d541af0c174d5a4ad0b
+  - enabled: 1
+    path: Assets/Scenes/CBT.unity
+    guid: 9a88054fd8193ec40aeae6f48a216f84
+  - enabled: 1
+    path: Assets/Scenes/Cleaning_Game_Rules.unity
+    guid: 8e39193f7e6b9d74197e2a6b368bffb7
+  - enabled: 1
+    path: Assets/Scenes/Cleaning_Game.unity
+    guid: 336fed03695af464ba56fb8ec826781a
+  - enabled: 1
+    path: Assets/Scenes/Cleaning_GameOver.unity
+    guid: d97042b1c5560a444ac51c4c26a51032
+  - enabled: 1
+    path: Assets/Scenes/Start_Menu_Continue.unity
+    guid: 5e9f2e4c20ef3fa4b8ffb6da3f309112
+  m_configObjects:
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 408683c33c44cf84f9c63a167d481c5d, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 55a3b2e8321c3cb4dbc8ac793606c9b1, type: 2}
